@@ -2,13 +2,13 @@
 
 An aspiring developer from Brazil
 
-## About me
+## About me 👨‍🦱
 
 - 💻 A computer science student 
 - 🌱 Currently learning C++ and japanese
 - 🎮 My favorite hobby is to play games 
 
-## Github stats 
+## Github stats 🥇
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-oliv&layout=compact&theme=dracula)
 
