@@ -17,7 +17,8 @@ An aspiring developer from Brazil
 
 
 
-## Connect with me ![Handshake](https://github.com/Otavio-oliv/Otavio-oliv/raw/main/handshake.gif)
+## Connect with me 
+<img src="https://github.com/Otavio-oliv/Otavio-oliv/blob/main/Handshake.gif" width="75" height="35"/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviooli1312@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otaviooliv_05/)
