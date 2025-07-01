@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Otávio
 
-<!--
-**Otavio-oliv/Otavio-oliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring developer from Brazil
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 A computer science student 
+- 🌱 Currently learning C++ and japanese
+- 🎮 My favorite hobby is to play games 
+
+## Github stats 
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-oliv&layout=compact&theme=dracula)
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+
+
+
+## Connect with me <img src="https://media.tenor.com/6g4rNBSfhbIAAAAC/handshake.gif" alt="Handshake" width="120"/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviooli1312@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otaviooliv_05/)
+
+
+
+
